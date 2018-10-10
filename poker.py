@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 import pyCardDeck
-=======
 import pyCardDeck"""imported"""
 >>>>>>> 4c675b4742c7cffb44bfb450f5731e97536e0133
 from pyCardDeck.cards import PokerCard
